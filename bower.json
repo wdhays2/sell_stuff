@@ -1,0 +1,20 @@
+{
+  "name": "sell_stuff",
+  "homepage": "https://github.com/wdhays2/sell_stuff",
+  "authors": [
+    "wdhays2 <wdhays2@charter.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
